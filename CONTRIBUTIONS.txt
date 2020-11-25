@@ -1,0 +1,4 @@
+The complete LAB10 has been done by Jayant Bhardwaj. Student number 57983801.
+
+GET_JTAG line number 64 in part3.s for part 3 taken from Altera Corporation- University Program.
+
